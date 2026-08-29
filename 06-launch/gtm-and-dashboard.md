@@ -1,8 +1,7 @@
 # GTM Strategy & Success Dashboard
 
-> **Module 6 · ★ Deliverable 6.** Repo file `06-launch/gtm-and-dashboard.md` — part of your submission.
-> Do the lab in the **Module 6 · Exercise Guide** (linked from the Module 6 deck), then click **⬇ Download .md** — it saves as this exact file. Commit it here.
-> It becomes the **GTM Strategy & Success Dashboard** slide of your Module 6 final deck.
+> **Module 6 — ★ Deliverable 6** — completed **April 2026** as part of the Product School PM certification.  
+> Published to GitHub as Markdown; content is unchanged from the original submission.
 
 ## Go-to-market summary
 

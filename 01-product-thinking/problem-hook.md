@@ -1,8 +1,7 @@
 # Problem Hook & Value Proposition: [StreamLine / RouteLogic / your initiative]
 
-> **Module 1 · ★ Deliverable 1.** Repo file `01-product-thinking/problem-hook.md` — part of your submission.
-> Do the lab in the **Module 1 · Exercise 2 Guide** (linked from the Module 1 deck), then click **⬇ Download .md** — it saves as this exact file. Commit it here.
-> It becomes the **Problem, Value & Hypothesis** slide of your Module 6 final deck. (Your Module 1 · Exercise 1 discovery map lands in `strategic-map.md`.)
+> **Module 1 · Lab 2 — ★ Deliverable 1** — completed **April 2026** as part of the Product School PM certification.  
+> Published to GitHub as Markdown; content is unchanged from the original submission.
 
 ## 1. Chosen scenario
 

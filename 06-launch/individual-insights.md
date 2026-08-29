@@ -1,8 +1,7 @@
 # Individual Insights: Development Process
 
-> Module 6 · Launch Impactful GTM Plans, ★ Deliverable 6 (reflection)
->
-> _The personal reflection that closes your final project._
+> **Module 6 — Individual Insights (reflection)** — completed **April 2026** as part of the Product School PM certification.  
+> Published to GitHub as Markdown; content is unchanged from the original submission.
 
 ## Friction points
 
