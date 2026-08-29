@@ -1,8 +1,7 @@
 # PRD & Prototype Sprint
 
-> **Module 4 · Lab 2.** Repo file `04-roadmap/prd-and-prototype.md` — part of your submission.
-> Do the lab in the **Module 4 · Exercise 2 Guide** (linked from the Module 4 deck), then click **⬇ Download .md** — it saves as this exact file. Commit it here.
-> It deepens the top feature from your `roadmap-prd-prototype.md` and feeds the **Roadmap, PRD & Prototype** slide of your Module 6 deck.
+> **Module 4 · Lab 2** — completed **April 2026** as part of the Product School PM certification.  
+> Published to GitHub as Markdown; content is unchanged from the original submission.
 
 ## Responses
 

@@ -1,8 +1,7 @@
 # Strategic Discovery Map
 
-> **Module 1 · Lab 1.** Repo file `01-product-thinking/strategic-map.md` — part of your submission.
-> Do the lab in the **Module 1 · Exercise 1 Guide** (linked from the Module 1 deck), then click **⬇ Download .md** — it saves as this exact file. Commit it here.
-> It's the discovery groundwork behind your `problem-hook.md`.
+> **Module 1 · Lab 1** — completed **April 2026** as part of the Product School PM certification.  
+> Published to GitHub as Markdown; content is unchanged from the original submission.
 
 ## Responses
 

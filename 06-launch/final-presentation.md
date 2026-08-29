@@ -1,6 +1,7 @@
 # Final Project Presentation
 
-> ★ Final submission, the deck you submit to the learning platform to qualify for certification.
+> **Module 6 — ★ Final submission** — completed **April 2026** as part of the Product School PM certification.  
+> Published to GitHub as Markdown; content is unchanged from the original submission.
 
 Your final project is a single presentation, a self-contained HTML deck built from the six deliverable files in this repo, that tells the story of your product concept end-to-end.
 
